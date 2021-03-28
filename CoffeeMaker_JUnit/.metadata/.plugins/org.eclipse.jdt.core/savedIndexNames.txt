@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/media/noha/hdd1/QA_HW2/CoffeeMaker_JUnit/.metadata/.plugins/org.eclipse.jdt.core
+267402727.index
+2202939237.index
+1858530746.index
+646308851.index
